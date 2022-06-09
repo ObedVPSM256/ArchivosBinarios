@@ -1,0 +1,7 @@
+H:\CÓDIGOS NUCLEARES\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe.config
+H:\CÓDIGOS NUCLEARES\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe
+H:\CÓDIGOS NUCLEARES\ArchivosBinarios\bin\Debug\ArchivosBinarios.pdb
+H:\CÓDIGOS NUCLEARES\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.AssemblyReference.cache
+H:\CÓDIGOS NUCLEARES\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CoreCompileInputs.cache
+H:\CÓDIGOS NUCLEARES\ArchivosBinarios\obj\Debug\ArchivosBinarios.exe
+H:\CÓDIGOS NUCLEARES\ArchivosBinarios\obj\Debug\ArchivosBinarios.pdb
